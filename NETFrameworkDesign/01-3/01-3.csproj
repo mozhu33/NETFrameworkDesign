@@ -41,8 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConvertOrderHelper1.cs" />
+    <Compile Include="ConvertOrderHelper2.cs" />
+    <Compile Include="ConvertOrderHelper2_V2.cs" />
+    <Compile Include="IOperationNormalPrices.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Items.cs" />
+    <Compile Include="OperationNormalPrices.cs" />
+    <Compile Include="Order.cs" />
     <Compile Include="OrderStatus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
